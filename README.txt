@@ -1,4 +1,4 @@
-This is my simple URL Shortener which is based on the principle of converting to base 62 and then redirecting the user to the original URL.
+This is a simple URL Shortener which is based on the principle of converting to base 62 and then redirecting the user to the original URL.
 
 Installation:
 pip install git+https://github.ccs.neu.edu/jhutnick10/url-shortener.git
